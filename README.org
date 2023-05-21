@@ -1,0 +1,9 @@
+* xsubseq
+
+Efficient way to use "subseq"s in Common Lisp
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/fukamachi/xsubseq.git |
+| commit  | 5ce430b                                      |
+| systems | xsubseq                                      |
+|---------+----------------------------------------------|
